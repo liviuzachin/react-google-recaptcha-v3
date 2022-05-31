@@ -85,6 +85,6 @@ typings/
 
 # End of https://www.gitignore.io/api/node
 
-dist
+# dist
 build
 .rpt2_cache
